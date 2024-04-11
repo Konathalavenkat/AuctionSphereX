@@ -28,6 +28,7 @@ function Login() {
         localStorage.setItem("token", response.data);
         window.location.href = "/";
       } else {
+        window.location.href = "/main";
         throw new Error(response.message);
       }
     } catch (error) {

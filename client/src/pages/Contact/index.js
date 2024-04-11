@@ -115,16 +115,16 @@ function Contact() {
           <p className="error-message">Email not sent. Please try again later.</p>
         )}
         <div className="contact-social-links">
-          <a href="https://www.linkedin.com/in/koya-madhusudhana-rao-7a2974233" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/venkat-konathala-953a7b262/" target="_blank" rel="noreferrer">
             <FaLinkedin />
           </a>
-          <a href="https://github.com/Koya-Madhusudhana-Rao" target="_blank" rel="noreferrer">
+          <a href="https://github.com/Konathalavenkat" target="_blank" rel="noreferrer">
             <FaGithub />
           </a>
-          <a href="mailto:madhusudhanaraokoya@gmail.com" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:venkatasiva2208@gmail.com" target="_blank" rel="noopener noreferrer">
             <SiGmail />
           </a>
-          <a href="https://www.instagram.com/madhu63096/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/https://www.instagram.com/venkat._.siva/" target="_blank" rel="noopener noreferrer">
             <FaInstagram />
           </a>
         </div>

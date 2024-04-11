@@ -45,13 +45,13 @@ function Bids({ showBidsModal, setShowBidsModal, selectedProduct }) {
       title: "Bid Amount",
       dataIndex: "bidAmount",
     },
-    {
-      title: "Bid Date",
-      dataIndex: "createAt",
-      render: (text, record) => {
-        return moment(text).format("DD-MM-YYYY hh:mm a");
-      },
-    },
+    // {
+    //   title: "Bid Date",
+    //   dataIndex: "createAt",
+    //   render: (text, record) => {
+    //     return moment(text).format("DD-MM-YYYY hh:mm a");
+    //   },
+    // },
     {
       title: "Message",
       dataIndex: "message",
